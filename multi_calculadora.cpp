@@ -22,7 +22,7 @@ int main (){
 		switch (op){
 			case(1):	
 				for(i = 1; i < n; i++){
-					cout <<"introduce la base del triangulo "<<i << " : ";
+					cout <<"introduce la base del triangulo "<<i << " : (David Quirino m gusta mucho) ";
 					cin >> b;
 					cout << "introduce la altura del triangulo "<<i << " : ";
 					cin >> h;
@@ -41,7 +41,7 @@ int main (){
 				}
 			}
 	}
-	//Falta el while
+	
 	
 		
 return (0);
